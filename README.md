@@ -6,27 +6,21 @@ To design a website to perform mathematical calculations in server side.
 ## DESIGN STEPS:
 
 ### Step 1:
-
-
+Clone into the repository named 'serversideprocessing' and create a project named 'myfirstproject'.
 
 ### Step 2:
-
-
+Startapp 'myapp'.Create a folder named 'templates' under which all html files are stored.
 
 ### Step 3:
-
-
+Make the necessary changes in the settings.py and add codes in urls.py and view.py which enables the operation to take place.
 
 ### Step 4:
-
-
+Under templates and myfirstapp, create a html file named math.html and write the required html code for the website.
 
 ### Step 5:
-
-
+Then makemigrations and run the server to get the output.
 
 ### Step 6:
-
 Publish the website in the given URL.
 
 ## PROGRAM :
